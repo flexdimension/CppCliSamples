@@ -1,4 +1,4 @@
-// これは メイン DLL ファイルです。
+// CliSimpleFunctions.cpp
 
 #include "stdafx.h"
 

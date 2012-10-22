@@ -10,6 +10,5 @@ namespace CliSimpleFunctions {
 	{
 	public:
 		static double Add(double a, double b);
-		// TODO: このクラスの、ユーザーのメソッドをここに追加してください。
 	};
 }

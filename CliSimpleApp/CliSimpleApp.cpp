@@ -1,4 +1,4 @@
-// CliSimpleApp.cpp : メイン プロジェクト ファイルです。
+// CliSimpleApp.cpp
 
 #include "stdafx.h"
 #include "stdio.h"
